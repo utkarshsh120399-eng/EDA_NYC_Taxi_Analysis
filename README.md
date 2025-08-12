@@ -1,2 +1,2 @@
 # EDA_NYC_Taxi_Analysis
-Analysed the dataset to perform EDA and visualization.
+Analyzed 2.7 million entries, performed data cleaning, handled missing values and outliers, and visualized the data effectively for clear insights.
